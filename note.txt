@@ -1,0 +1,8 @@
+below two command in same console and location
+=> start rmiregistry (rmiregistry & command is used to start rmi registry in linux.)
+=> java AddServer
+
+below command in different console
+=> java AddClient
+
+=> Change IP address in AddClient
